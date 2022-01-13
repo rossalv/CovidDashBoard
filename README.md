@@ -1,3 +1,3 @@
 # CovidDashBoard
-Dashboard to track Covid cases and deaths in 2020 \n
-Group project
+Dashboard to track Covid cases and deaths in 2020  
+Group Project
